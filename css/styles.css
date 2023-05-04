@@ -10,9 +10,11 @@ p {
   background-color: beige;
 }
 footer {
-  margin: 0 10px;
   display: block;
   text-align: center;
+}
+footer a {
+  margin: 0 10px;
 }
 .croissant-pic {
   max-width: 35%;
